@@ -1,3 +1,6 @@
+on post-fs-data
+    mkdir /data/vendor/tee 0770 root root
+
 service tee-supplicant /vendor/bin/tee-supplicant
     class core
     user root
