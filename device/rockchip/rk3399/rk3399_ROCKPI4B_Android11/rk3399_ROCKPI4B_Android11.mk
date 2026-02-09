@@ -42,7 +42,9 @@ PRODUCT_PACKAGES += \
 # This replaces Rockchip's proprietary tee-supplicant and libteec
 PRODUCT_PACKAGES += \
     tee-supplicant \
-    libteec
+    libteec \
+    hello_ta_test \
+    8aaaf200-2450-11e4-abe2-0002a5d5c51b.ta
 
 PRODUCT_PACKAGE_OVERLAYS += device/rockchip/rk3399/rk3399_ROCKPI4B_Android11/overlay
 PRODUCT_PACKAGE_OVERLAYS += device/rockchip/rk3399/screen_always_on_overlay

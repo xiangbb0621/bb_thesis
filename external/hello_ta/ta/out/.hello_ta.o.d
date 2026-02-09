@@ -1,0 +1,20 @@
+/home/xiang/rockpi4-android/external/hello_ta/ta/out/hello_ta.o: \
+ hello_ta.c \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/tee_internal_api.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/tee_api.h \
+ /home/xiang/rockpi4-android/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/lib/gcc/aarch64-linux-gnu/6.3.1/include/stddef.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/compiler.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/tee_api_defines.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/tee_api_types.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/inttypes.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/stdint.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/limits.h \
+ /home/xiang/rockpi4-android/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/lib/gcc/aarch64-linux-gnu/6.3.1/include/stdbool.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/trace.h \
+ /home/xiang/rockpi4-android/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/lib/gcc/aarch64-linux-gnu/6.3.1/include/stdarg.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/trace_levels.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/tee_ta_api.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/tee_internal_api_extensions.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/stdio.h \
+ /home/xiang/rockpi4-android/optee_os/out/arm-plat-rockchip/export-ta_arm64/include/tee_api_defines_extensions.h \
+ hello_ta.h
